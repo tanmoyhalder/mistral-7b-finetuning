@@ -7,3 +7,5 @@ Finetuning method: PEFT and QLoRA
 
 code inspired by a HF repo https://github.com/huggingface/alignment-handbook/blob/main/scripts/run_sft.py
 
+credits: Niels Rogge (Youtube)
+
